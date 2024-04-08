@@ -6,7 +6,7 @@
 # {
 #   "version": 1,
 #   "generated_with_requirements": [
-#     "org.slf4j:slf4j-log4j12:2.0.12,url=not_provided,jar=not_provided"
+#     "org.slf4j:slf4j-log4j12:2.0.12,url=not_provided,jar=not_provided,excludes=org.slf4j:test"
 #   ]
 # }
 # --- END PANTS LOCKFILE METADATA ---
